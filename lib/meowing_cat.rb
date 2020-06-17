@@ -1,5 +1,5 @@
-## code your solution here. 
-class 
+## code your solution here.
+class
 
 attr_accessor
 
@@ -10,5 +10,5 @@ end
 
 
 
-    
+
 end
