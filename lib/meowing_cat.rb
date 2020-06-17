@@ -5,7 +5,7 @@ attr_accessor(name)
 
 
 
-def name(name)
+def name=(name)
 @name = name
 end
 
