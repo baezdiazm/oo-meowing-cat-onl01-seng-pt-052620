@@ -1,5 +1,5 @@
 ## code your solution here.
-class
+class Cat
 
 
 
